@@ -30,6 +30,7 @@ namespace DirencRenkHesaplayici
             groupBox1.Enabled = true;
             groupBox2.Enabled = false;
             groupBox3.Enabled = false;
+            //Minor bugx fixed.
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
